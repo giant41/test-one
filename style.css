@@ -1,0 +1,52 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.left{
+	float: left;
+}
+
+.mr{
+	margin-right: 40px;
+}
+
+/* Header Style */
+header nav{
+	text-align: center;
+}	
+header nav.headermenu ul{
+	margin: 10px;
+	padding: 10px;
+	background: #CCC;
+}
+
+header nav.headermenu li{
+	list-style: none;
+	display: inline-block;
+}
+
+header h2 {
+	font-family: Arial;
+	font-size: 23px;
+	text-align: center;
+}
+
+/* Footer Style */
+
+footer{
+	background: #000;
+	color: #ccc;
+	padding: 10px;
+	clear: both;
+}
+
+nav.menu ul{
+	margin: 0;
+	padding: 0;
+}
+
+nav.menu li{
+	list-style: none;
+	display: inline-block;
+}
